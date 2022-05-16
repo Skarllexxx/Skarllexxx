@@ -1,4 +1,19 @@
-## Bem Vindo ao Meu Perfil😝🏁
+# 🐍 <samp><a href="https://www.linkedin.com/in/scarllet-souza-2109391b9/"> Scarllet Souza </a></samp>
+
+>_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/Skarllexxx/Skarllexxx/blob/master/src/Hi.gif"><br>
+I'm Scarllet, i'm 21 years old and i study front end programming.
+
+  ```javascript
+const Scarllet = {
+  nickname: "Skarllexxx"
+  code: [HTML 5, CSS3, Java, REACT]
+	tools: [VS CODE, Sublime_Text, Photoshop, Illustrator, Premiere, C4D and more...]
+	hobbies: [Design,FilmMaker, VFX, Games, Animes]
+	target: "Be a FullStack Developer"
+ }
+```
+
+##
 
  <div align="center">
   <a href="https://github.com/Skarllexxx">
@@ -6,6 +21,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarllexxx&layout=compact&langs_count=6&theme=monokai"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skarllexxx&theme=monokai"/>
 </div>
+ 
+ ##
+ 
+
+ ###
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,3 +48,31 @@
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ 
+ <!-- MORE INFO -->
+
+<details>
+  <summary>📃 My Resume</summary>
+
+## Education
+
+- 📖 **High School**\
+📆 2017 - 2020 \
+📍 **Colégio Estadual Almirante Álvaro Alberto** - Paraty-RJ, Brazil
+
+## Experience
+
+
+- 👨‍💼 **Saleswoman and Designer**\
+📆 2021 - 2022\
+📍 **Monche'Rio Informática Paraty** - Paraty-RJ, Brazil
+ 
+ <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white"/>
+ <img align="right" src="https://img.shields.io/badge/Microsoft%20Word-0078D6?logo=microsoft-word&logoColor=white"/>
+ <img align="right" src="https://img.shields.io/badge/Adobe Photoshop-31a8ff?logo=adobephotoshop&logoColor=white"/>
+ 
+ ---
+ 
+
+
