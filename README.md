@@ -1,6 +1,6 @@
 # 🐍 <samp><a href="https://www.linkedin.com/in/scarllet-souza-2109391b9/"> Scarllet Souza </a></samp>
 
->_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/Skarllexxx/Skarllexxx/blob/master/src/Hi.gif"><br>
+>_Hi there! Welcome to my GitHub profile!    <img width="20px" src="https://github.com/Skarllexxx/Skarllexxx/blob/main/SCR/Hi.gif"><br>
 I'm Scarllet, i'm 21 years old and i study front end programming._
 
 ##
