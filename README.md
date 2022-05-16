@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Social Midias!
+  ### Social Midias
  
 <div> 
   
