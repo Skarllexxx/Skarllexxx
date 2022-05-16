@@ -4,6 +4,7 @@
   <a href="https://github.com/Skarllexxx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Skarllexxx&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarllexxx&layout=compact&langs_count=6&theme=monokai"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skarllexxx&theme=monokai"/>
 </div>
  
 <div style="display: inline_block"><br>
