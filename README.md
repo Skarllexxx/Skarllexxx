@@ -1,8 +1,9 @@
 # 🐍 <samp><a href="https://www.linkedin.com/in/scarllet-souza-2109391b9/"> Scarllet Souza </a></samp>
 
 >_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/Skarllexxx/Skarllexxx/blob/master/src/Hi.gif"><br>
-I'm Scarllet, i'm 21 years old and i study front end programming.
+I'm Scarllet, i'm 21 years old and i study front end programming._
 
+##
   ```javascript
 const Scarllet = {
   nickname: "Skarllexxx"
@@ -27,23 +28,27 @@ const Scarllet = {
 
  ###
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="Center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br>
+	
+ ###
+
+<h5 align="center"><samp>- SOCIAL NETWORKS -</samp></h5>
  
-  ### Social Midias
- 
-<div> 
+<div align="Center"> 
   
   <a href="https://www.instagram.com/skarllex_x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ybShzdQz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto: scarlletdoe.s.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/scarllet-souza-2109391b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCX_rRewhseUmc__PxWljdlA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+	
+<p align="center">📫<i> Click on the images to get contact to me.</i></p>
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
@@ -63,7 +68,7 @@ const Scarllet = {
 ## Experience
 
 
-- 👨‍💼 **Saleswoman and Designer**\
+- 👩🏻‍💼💼 **Saleswoman and Designer**\
 📆 2021 - 2022\
 📍 **Monche'Rio Informática Paraty** - Paraty-RJ, Brazil
  
