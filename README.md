@@ -9,7 +9,7 @@ const Scarllet = {
   nickname: "Skarllexxx"
   code: [HTML 5, CSS3, Java, REACT]
 	tools: [VS CODE, Sublime_Text, Photoshop, Illustrator, Premiere, C4D and more...]
-	hobbies: [Design,FilmMaker, VFX, Games, Animes]
+	hobbies: [Design, FilmMaker, VFX, Games, Animes]
 	target: "Be a FullStack Developer"
  }
 ```
