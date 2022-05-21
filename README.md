@@ -1,7 +1,7 @@
-# 🐍 <samp><a href="https://www.linkedin.com/in/scarllet-souza-2109391b9/"> Scarllet Souza </a></samp>
+# 🐍 <samp><a href="https://www.linkedin.com/in/scarllet-souza-2109391b9/"> Scarllet Souza </a></samp> 🏁
 
->_Hi there! Welcome to my GitHub profile!    <img width="20px" src="https://github.com/Skarllexxx/Skarllexxx/blob/main/SCR/Hi.gif"><br>
-I'm Scarllet, i'm 21 years old and i study front-end programming._
+>_Eai! Bem vindo ao meu Perfil do Github!    <img width="20px" scr="https://user-images.githubusercontent.com/72552303/169669210-f3c9fb0f-7f2c-4a8d-8953-1e48af073027.gif"><br>
+Eu sou a Scarllet, tenho 21 anos e estudo programação Front-End._
 
 ##
   ```javascript
@@ -38,7 +38,7 @@ const Scarllet = {
 	
 ###
 
-<h5 align="center"><samp>- SOCIAL NETWORKS -</samp></h5>
+<h5 align="center"><samp>- REDE SOCIAIS -</samp></h5>
  
 <div align="Center"> 
   	<a href="https://www.instagram.com/skarllex_x/" target="_blank">
@@ -58,29 +58,25 @@ const Scarllet = {
 	</a>
 </div>
 	
-<p align="center">📫<i> Click on the images to get contact to me.</i></p>
- 
-####
-  ![Snake animation](https://github.com/Skarllexxx/Skarllexxx/blob/output/github-contribution-grid-snake.svg)
-####
+<p align="center">📫<i> Entre em contato comigo!</i></p>
  
  <!-- MORE INFO -->
 
 <details>
-  <summary>📃 My Resume</summary>
+  <summary>📃 Escolaridade e Experiência </summary>
 
-## Education
+## Educação
 
-- 📖 **High School**\
+- 📖 **Ensino Médio - Completo**\
 📆 2017 - 2020 \
-📍 **Colégio Estadual Almirante Álvaro Alberto** - Paraty-RJ, Brazil
+📍 **Colégio Estadual Almirante Álvaro Alberto** - Paraty-RJ, Brasil
 
-## Experience
+## Experiência
 
 
-- 👩🏻‍💼💼 **Saleswoman and Designer**\
+- 👩🏻‍💼💼 **Vendedora e Designer**\
 📆 2021 - 2022\
-📍 **Monche'Rio Informática Paraty** - Paraty-RJ, Brazil
+📍 **Monche'Rio Informática Paraty** - Paraty-RJ, Brasil
  
 	<a href="https://www.microsoft.com/pt-br/microsoft-365">
  	<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
